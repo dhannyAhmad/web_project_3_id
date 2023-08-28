@@ -1,0 +1,15 @@
+body {
+  background: #2a2c2f;
+  margin: auto;
+}
+
+h1,
+h2,
+p {
+  color: #fff;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
