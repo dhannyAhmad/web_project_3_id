@@ -1,5 +1,5 @@
 .lead {
-  margin: 0;
+  margin: 0 148px;
 }
 
 .lead__title {
@@ -25,7 +25,6 @@
 }
 
 .lead__image {
-  width: 100%;
   margin: auto;
   margin-top: 64px;
   filter: grayscale(1);

@@ -10,10 +10,6 @@
 @import url(../block/footer.css);
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-  .header__logo {
-    margin: 34px 249px 0;
-  }
-
   .cover,
   .intro__title {
     margin: 40px 0;
@@ -38,6 +34,7 @@
   .place__title {
     font-size: 42px;
     line-height: 109.524%;
+    width: 340px;
   }
   .place__image {
     width: 340px;

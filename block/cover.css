@@ -1,6 +1,8 @@
 .cover {
   height: 740px;
-  background: url(/images/__background.png), lightgray 50% / cover no-repeat;
+  background-image: url(../images/__background.png);
+  background-size: cover;
+  background-position: center;
   margin: 0 48px;
 }
 
