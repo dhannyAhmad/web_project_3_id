@@ -3,16 +3,31 @@
 ### Gambaran umum
 
 - Pengantar
+- feature
 - Figma
+- github pages
 - Gambar
 
 **Pengantar**
 
 Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. Kita telah membuatnya sehingga semua elemen ditampilkan secara tepat di ukuran layar yang populer. Kami sarankan untuk meluangkan lebih banyak waktu dalam menyelesaikan proyek ini, karena ini lebih sulit daripada proyek yang sebelumnya.
 
+**feature**
+
+- Semantic HTML5
+- BEM File Structure
+- Metodology BEM
+- Grid Layout
+- Flexbox
+- Responsive
+
 **Figma**
 
 - [Tautkan ke proyek di Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
+
+**Github Pages**
+
+- [project] (https://dhannyahmad.github.io/web_project_3_id/)
 
 **Gambar**
 
