@@ -17,6 +17,7 @@
   font-weight: 900;
   line-height: 76px; /* 105.556% */
   grid-area: title;
+  width: 460px;
 }
 
 .place__image {
@@ -116,6 +117,8 @@
   .place__title {
     margin: 0 auto 30px 16px;
     font-size: 32px;
+    width: 288px;
+    height: 35px;
     line-height: 109.375%;
   }
   .place__website {
